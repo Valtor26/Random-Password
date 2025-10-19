@@ -1,0 +1,52 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background: rgb(9, 26, 48);
+  font-family: sans-serif;
+  text-align: c;
+}
+
+#main{
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+h1{
+  color: white;
+}
+#rPass{
+  color: rgb(86, 201, 90);
+}
+#text{
+  color: whitesmoke;
+}
+#generate{
+  background:  rgb(86, 201, 90);
+  color: white;
+  padding: 8px 10px;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+}
+
+#passwords{
+  display: flex;
+  width: 500px;
+  justify-content: space-around;
+  color:  rgb(86, 201, 90);
+  border-top: 1px solid gainsboro;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+#firstPass,#secondPass{
+  background: rgb(36, 65, 104);
+  padding: 10px 10px;
+  border-radius: 5px;
+  width: 200px;
+  height: 10px;
+  text-align: center;
+}
